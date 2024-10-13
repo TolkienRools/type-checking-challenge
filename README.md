@@ -11,4 +11,7 @@ Contents
 - Various Python files, each containing a solution that showcases different aspects of type hinting. 
 - Explanations and comments within the code to illustrate the purpose and usage of type hints.
 
+It's possible to change files and check correctness of used types with mypy.
+Just simply use: `make typing`
+
 Feel free to explore the solutions and learn more about how type hints can be effectively utilized in Python programming!
